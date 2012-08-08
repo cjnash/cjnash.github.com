@@ -1,6 +1,6 @@
 ---
 layout: default
-published: false
+published: true
 ---
 
 # Trying out Prose.io + GitHub + Jekyll

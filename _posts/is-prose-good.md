@@ -1,6 +1,8 @@
 ---
 layout: default
 published: true
+author: Christopher Nash
+category: 6
 ---
 
 # Is Prose.io any good?
